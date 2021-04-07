@@ -2,7 +2,6 @@
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
-<font color=#008000>我是红色</font>
 - [1. Java 基本功](#1-java-基本功)
   - [1.1. Java 入门（基础概念与常识）](#11-java-入门基础概念与常识)
     - [1.1.1. Java 语言有哪些特点?](#111-java-语言有哪些特点)
